@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FixedLocally
 - 👀 I’m interested in building social network for all
 - 🌱 I’m currently learning statistics and accounting
-- 💞️ I’m looking to collaborate on building EUtopia
+- 💞️ I’m looking to collaborate on building Mint Wallet
 - 📫 Reach me at mint@utopiamint.xyz
 
 <!---
